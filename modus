@@ -1,0 +1,5 @@
+- unit: test2
+  language: cpp
+  type: headers
+  sources: 
+   - test2.hpp 
