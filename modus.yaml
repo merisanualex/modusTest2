@@ -1,4 +1,4 @@
-- target: test2
+- unit: test2
   language: cpp
   type: headers
   sources:
