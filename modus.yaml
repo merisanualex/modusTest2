@@ -1,6 +1,4 @@
-- unit: test2
-  language: cpp
+- target: test2
   type: headers
   sources:
-   common: 
      - test2.hpp 
