@@ -1,4 +1,4 @@
 - target: test2
   type: headers
   sources:
-     - test2.hpp 
+     - include/test2.hpp 
